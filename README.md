@@ -6,7 +6,7 @@ A quick code lab to explore the use of custom palettes in the [Pyxel game engine
 
 ## Install
 
-This project uses [Poetry](https://python-poetry.org "At last python has more or less caught up with modernity about dependency management"), so all you have to do is install Poetry and run `poetry install` in this project directory.
+This project uses [Poetry](https://python-poetry.org "At last Python has more or less caught up with modernity about dependency management"), so all you have to do is install Poetry and run `poetry install` in this project directory.
 
 ## Run
 
@@ -19,7 +19,5 @@ poetry shell
 python main.py
 ```
 
-Or directly through the run command: 
-
-`poetry run main.py`
+Or directly through the run command: `poetry run main.py`
 
