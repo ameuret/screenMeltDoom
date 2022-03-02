@@ -14,8 +14,10 @@ In order to completely isolate your environment, you should run this project und
 
 Either in a separate shell spawned by Poetry:
 
-`poetry shell`
-`python main.py`
+```
+poetry shell
+python main.py
+```
 
 Or directly through the run command: 
 
