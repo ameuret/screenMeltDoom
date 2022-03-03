@@ -27,5 +27,5 @@ poetry shell
 python main.py
 ```
 
-Or directly through the run command: `poetry run main.py`
+Or directly through the run command: `poetry run python main.py`
 
