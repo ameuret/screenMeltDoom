@@ -8,6 +8,8 @@ A quick code lab to explore the use of custom palettes in the [Pyxel game engine
 
 Palette customization applies globally. Only the palette set last through `pyxel.colors.from_list(self.palette)` is active.
 
+Per Canvas (Image) palettes are not supported. `pyxel.image(0).colors.from_list(self.palette)` is illegal.
+
 According to [Merwork@Discord](https://discord.com/channels/697925198992900106/697925198992900109/937466912798040104), the `pal` call can be used to manipulate the palette multiple times inside a single frame. Just for swapping though...
 
 ## Install
